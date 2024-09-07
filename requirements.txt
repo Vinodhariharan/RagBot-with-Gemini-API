@@ -1,0 +1,8 @@
+streamlit
+pandas
+PyPDF2
+Pillow
+pytesseract
+langchain_google_genai
+clickhouse_connect
+google-generativeai
