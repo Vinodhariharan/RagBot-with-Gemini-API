@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-google_api_key='your_api_key'  # Pass API key directly
+google_api_key='AIzaSyAD4QZ-4djS3O7U85CtlldTBy0Vew0iAnA'  # Pass API key directly
 genai.configure(api_key=google_api_key)
 
 def query_gemini(query, relevant_text):
