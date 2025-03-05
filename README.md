@@ -57,6 +57,7 @@ RagBot-with-Gemini-API/
 │   │── rag_retrieval.py       # Retrieval logic
 │── pages/
 │   │── chat.py                # Chat interface
+│   │── upload.py              # Upload interface
 ```
 
 ## Contributing
