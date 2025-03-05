@@ -4,7 +4,7 @@ import google.generativeai as genai
 import os
 
 # Setup Google Generative AI
-google_api_key = 'your-api-key'  # Replace with your API key
+google_api_key = 'AIzaSyAD4QZ-4djS3O7U85CtlldTBy0Vew0iAnA'  # Replace with your API key
 genai.configure(api_key=google_api_key)
 
 # Setup ClickHouse client
