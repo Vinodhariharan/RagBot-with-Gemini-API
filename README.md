@@ -4,7 +4,7 @@
 RagBot is an AI-powered chatbot that integrates Retrieval-Augmented Generation (RAG) with Google's Gemini API. It retrieves relevant documents from a vector database and enhances responses using a generative AI model. This project is built using Streamlit for the frontend and ClickHouse for vector storage.
 
 ## Live Demo
-https://ragbot-with-gemini-api.onrender.com/
+https://ragbot-with-gemini-api.onrender.com/ - might not work yet
 
 ## Features
 - Extracts and processes text from PDFs and images
